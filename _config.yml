@@ -1,0 +1,13 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: post
+      title: Monty Hall by bgbrandongomez
+      project: Monty Hall
+      projectid: MontyHall
+      developer: bgbrandongomez
+      branch: master
+      description: A fun little game in which you get to guess what number the computer is thinking.
+      siteurl: https://senorcontento.github.io/
