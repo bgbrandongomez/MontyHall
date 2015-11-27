@@ -3,11 +3,16 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: post
-      title: Monty Hall by bgbrandongomez
-      project: Monty Hall
-      projectid: MontyHall
+      layout: default
+      title: Guessing Game by bgbrandongomez
+      project: Guessing Game
+      projectid: GuessingGame
       developer: bgbrandongomez
       branch: master
+      site-branch: gh-pages
       description: A fun little game in which you get to guess what number the computer is thinking.
-      siteurl: https://senorcontento.github.io/
+      site-url: https://senorcontento.github.io
+      project-url: https://bgbrandongomez.github.io
+      date: 0000-00-00 00:00:00
+
+markdown: kramdown
