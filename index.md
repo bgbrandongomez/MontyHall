@@ -34,4 +34,3 @@ The Monty Hall Door simulation was designed to prove that the probability of get
 This program will automatically prove the 2/3 chance Monty Hall Theory
 Not Switched: 2795248 Switched: 5593516 Total: 8388764 --- Not Switched %: 33.321335 Switched %: 66.678665
 {% endhighlight %}
-{% include footer.html %}
